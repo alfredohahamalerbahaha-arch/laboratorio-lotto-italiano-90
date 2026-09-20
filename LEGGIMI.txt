@@ -1,0 +1,12 @@
+LABORATORIO LOTTO ITALIANO 90 — PROTOTIPO V4
+
+1. Estrai la cartella.
+2. Apri index.html con il browser.
+3. Usa il pulsante/menu Archivio Estrazioni per consultare il database 2026.
+
+Il sito funziona interamente in locale e non pubblica nulla su Internet.
+
+AGGIORNAMENTO REGOLA OPERATIVA
+- Validità massima: 8 colpi dalla prima estrazione successiva alla pubblicazione.
+- Stop alla prima vincita della singola previsione.
+- Senza esito entro l'8° colpo: chiusura per scadenza e mantenimento nello storico.
