@@ -65,3 +65,16 @@
   width: 180px;
   height: auto;
 }
+.prediction-card.winner {
+  border: 2px solid #16bd63;
+  box-shadow: 0 0 0 1px rgba(22,189,99,.25), 0 0 24px rgba(22,189,99,.18);
+}
+
+.prediction-card.winner .prediction-top b {
+  color: #8af0c4;
+}
+
+.prediction-card.winner .status {
+  color: #8af0c4;
+  font-weight: 700;
+}
